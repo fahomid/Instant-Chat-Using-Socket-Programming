@@ -1,0 +1,23 @@
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\bin\Debug\Instant Chat.exe.config
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\bin\Debug\Instant Chat.exe
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\bin\Debug\Instant Chat.pdb
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\Instant Chat.csprojResolveAssemblyReference.cache
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\DashBoard.g.cs
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\MainWindow.g.cs
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\UserControl1.g.cs
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\UserControl2.g.cs
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\App.g.cs
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\Instant Chat_MarkupCompile.cache
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\Instant Chat_MarkupCompile.lref
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\DashBoard.baml
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\MainWindow.baml
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\UserControl1.baml
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\UserControl2.baml
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\Instant Chat.g.resources
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\Instant_Chat.Properties.Resources.resources
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\Instant Chat.csproj.GenerateResource.Cache
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\Instant Chat.exe
+C:\Users\Fahomid\Desktop\Instant Chat\Instant Chat\obj\Debug\Instant Chat.pdb
